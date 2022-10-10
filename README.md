@@ -4,7 +4,6 @@ The dataset 'product_review.csv' contains consumer reviews of some selected onli
 
 **Description of the data:**
 
-- **`product_review.csv`** contains the dataset. 
 - Each observation (row) in this dataset is a review of a particular product by a particular user.
 - The **date** column is the date when the review was provided.
 - The **product** column is the name of the product reviewed.
