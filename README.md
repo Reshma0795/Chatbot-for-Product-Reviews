@@ -13,5 +13,5 @@ The dataset 'product_review.csv' contains consumer reviews of some selected onli
 - The **rating** column is the number of stars (1 through 5) assigned by the reviewer to the product. (Higher stars is better.) In other words, it is the rating of the product by the user who wrote the review.
 
 **Goal**:
- - Perform some data explorations.
+ - Performed some data explorations.
  - Generate training, validation, and test datasets before model building and prediction
